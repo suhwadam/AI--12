@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 홈페이지 주소가 바뀌면 https://suhwadam.netlify.app 부분을 새 주소로 바꿔 주세요 -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://suhwadam.netlify.app/</loc><lastmod>2026-11-10</lastmod><priority>1.0</priority></url>
+  <url><loc>https://suhwadam.netlify.app/about.html</loc><lastmod>2026-11-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://suhwadam.netlify.app/products.html</loc><lastmod>2026-11-10</lastmod><priority>0.9</priority></url>
+  <url><loc>https://suhwadam.netlify.app/gift-set.html</loc><lastmod>2026-11-10</lastmod><priority>0.9</priority></url>
+  <url><loc>https://suhwadam.netlify.app/favor.html</loc><lastmod>2026-11-10</lastmod><priority>0.9</priority></url>
+  <url><loc>https://suhwadam.netlify.app/walnut.html</loc><lastmod>2026-11-10</lastmod><priority>0.9</priority></url>
+  <url><loc>https://suhwadam.netlify.app/gallery.html</loc><lastmod>2026-11-10</lastmod><priority>0.7</priority></url>
+  <url><loc>https://suhwadam.netlify.app/faq.html</loc><lastmod>2026-11-10</lastmod><priority>0.7</priority></url>
+  <url><loc>https://suhwadam.netlify.app/contact.html</loc><lastmod>2026-11-10</lastmod><priority>0.8</priority></url>
+</urlset>
