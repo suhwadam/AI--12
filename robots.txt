@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://suhwadam.netlify.app/sitemap.xml
+Sitemap: https://suhwadam.github.io/AI--12/sitemap.xml

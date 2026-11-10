@@ -3,7 +3,7 @@
 전주 오구떡 판매 전문점 **수화담(手花餤)** 홈페이지입니다.
 오븐에 구운 찰떡 '오구떡' 선물세트·답례 구성과 오븐에 구운 호두강정을 소개합니다.
 
-- 홈페이지: https://suhwadam.netlify.app
+- 홈페이지: https://suhwadam.github.io/AI--12
 - 전화: 063-282-8882
 - 인스타그램: https://www.instagram.com/suhwadam/
 - 네이버 스마트스토어: https://smartstore.naver.com/suhwadam
